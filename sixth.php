@@ -163,7 +163,7 @@ foreach ($decoded['map_markers'] as $res) {
     array_push($collection, $RentProperty6th);
 //https://regex101.com/r/VJZ3sQ/2
     //https://regex101.com/r/paZ9V2/1
-    
+//injas
 }
 
 var_dump($collection);
